@@ -1,0 +1,1 @@
+install.packages(c("farver", "scales", "RMySQL", "DBI", "ggplot2"))
